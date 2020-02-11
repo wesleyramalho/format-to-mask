@@ -9,7 +9,7 @@ import formatToMask from './format-to-mask.js';
 
 const cpf = 43915819844;
 
-alert(formatMask('XXX.XXX.XXX-XX', cpf));
+alert(formatToMask('XXX.XXX.XXX-XX', cpf));
 // returns 439.158.198-44
  
 ```
