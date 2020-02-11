@@ -7,4 +7,4 @@
     }
     return r;
   }
-  export default formatMask;
+  export default formatToMask;
